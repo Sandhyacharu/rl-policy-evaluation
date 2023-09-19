@@ -156,13 +156,13 @@ else:
   print("Both policies have their merits.")
 ```
 ## OUTPUT:
-###Policy 1
+### Policy 1
 ![image](https://github.com/Sandhyacharu/rl-policy-evaluation/assets/75235167/5c5de112-071c-424b-aa04-fb40620c92ec)
 
-###Policy 2
+### Policy 2
 ![image](https://github.com/Sandhyacharu/rl-policy-evaluation/assets/75235167/79c091eb-cdf0-4336-918f-68a13208ff3c)
 
-###Comparison
+### Comparison
 ![image](https://github.com/Sandhyacharu/rl-policy-evaluation/assets/75235167/a4d775b7-c0ed-461d-8ce7-afdd23b58cac)
 ![image](https://github.com/Sandhyacharu/rl-policy-evaluation/assets/75235167/f4699987-8bc3-48c7-a61d-f9b962e530d4)
 
