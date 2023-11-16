@@ -1,4 +1,6 @@
-# POLICY EVALUATION
+### EX NO: 02
+### DATE:
+# <p align="center">POLICY EVALUATION</p>
 
 ## AIM
 To develop a Python program to evaluate the given policy.
@@ -8,6 +10,9 @@ The bandit slippery walk problem is a reinforcement learning problem in which an
 
 ## POLICY EVALUATION FUNCTION
 ```python3
+# Developed by: Sandhya Charu N
+# Register Number: 212220230041
+
 import warnings ; warnings.filterwarnings('ignore')
 !pip install gym_walk
 
