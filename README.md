@@ -161,6 +161,7 @@ else:
   print("Both policies have their merits.")
 ```
 
+<br>
 
 ## OUTPUT:
 ### Policy 1
