@@ -160,6 +160,8 @@ elif(np.sum(V2>=V1)==7):
 else:
   print("Both policies have their merits.")
 ```
+
+
 ## OUTPUT:
 ### Policy 1
 ![image](https://github.com/Sandhyacharu/rl-policy-evaluation/assets/75235167/5c5de112-071c-424b-aa04-fb40620c92ec)
